@@ -53,7 +53,7 @@ An asynchronous reset is applied at the start of simulation to clear the registe
 ### Waveform
 
 <p align="center">
-  <img src="images/Wave.png" alt="Simulation waveform" width="900">
+  <img src="images/WaveForm.png" alt="Simulation waveform" width="900">
 </p>
 
 ## Running the Simulation (ModelSim / QuestaSim)
@@ -94,7 +94,7 @@ The design was checked with **Synopsys SpyGlass** (`Lint/Lint.prj`, `rtl_handoff
 │   ├── Register_File.png     # Block symbol
 │   ├── Register_File_RTL.png # RTL schematic (top level)
 │   ├── Register_File_RTL2.png# RTL schematic (register array detail)
-│   └── Wave.png               # Simulation waveform
+│   └── WaveForm.png            # Simulation waveform
 ├── LICENSE
 └── README.md
 ```
